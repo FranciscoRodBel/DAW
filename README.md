@@ -6,7 +6,7 @@
 
 | Código | Nombre | Curso | Repositorio |
 |-----------|-----------|-----------|-----------|
-| LMSGI | Lenguajes de marcas y sistemas de gestión de información | 22-23 | [LMSGI](https://github.com/FranciscoRodBel/LMSGI.git) |
+| LMSGI | Lenguajes de marcas y sistemas de gestión de información | 22-23 | LMSGI |
 | ED | Entornos de desarrollo | 22-23 | ED |
 | BBDD | Bases de datos | 22-23 | BBDD |
 | PROG | Programación | 22-23 | PROG |
